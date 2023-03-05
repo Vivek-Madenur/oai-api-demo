@@ -1,0 +1,4 @@
+.DS_Store
+.python-version
+requirements.txt
+__pycache__/app.cpython-310.pyc
